@@ -1,6 +1,6 @@
 # beyond-sw-camp-be01_finale_project
 
-![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/09f5813a-90ea-4908-87ee-ae5e3f594842)
+![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/3428f8cd-ec7c-4db9-9374-1fabc37a9543)
 
 ### TEAM
 ```
