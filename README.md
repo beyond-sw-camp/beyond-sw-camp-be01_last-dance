@@ -1,5 +1,12 @@
-# beyond-sw-camp-be01_finale_project
+```
+Beyond-SW-camp first player
+_           _         _
+| | __ _ ___| |_    __| | __ _ _ __   ___ ___
+| |/ _` / __| __|  / _` |/ _` | '_ \ / __/ _ \
+| | (_| \__ \ |_  | (_| | (_| | | | | (_|  __/
+|_|\__,_|___/\__|  \__,_|\__,_|_| |_|\___\___|
 
+```
 ![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/765d9b05-cc37-46cd-bbbd-5cd4ceb2f59b)
 
 ### TEAM
