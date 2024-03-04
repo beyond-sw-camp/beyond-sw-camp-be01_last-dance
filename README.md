@@ -20,7 +20,7 @@ _           _         _
 - Repo : https://github.com/final-kms/main
   
 ----
-#### [T2]
+#### [T2] Papillon
 - Topic : 효율적인 업무를 위한 일정 관리 시스템
 - Role
      - Project Manager: 고라희
