@@ -15,7 +15,7 @@ _           _         _
 ### TEAM
 ----
 #### [T3]
-- Topic 인사
-- Role 예정 화이팅
-- Repo 예정
+- Topic 인사관리시스템
+- Role 예정
+- Repo (https://github.com/9-13579/R0-3Team)
   
