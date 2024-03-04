@@ -14,8 +14,8 @@ _           _         _
   
 ### TEAM
 ----
-#### [T1]
-- Topic
-- Role
-- Repo
+#### [T3]
+- Topic 인사
+- Role 예정 화이팅
+- Repo 예정
   
