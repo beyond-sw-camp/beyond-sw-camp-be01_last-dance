@@ -51,5 +51,5 @@ _           _         _
 - Role
   - PM : 안우용
   - 형상관리자 : 임성현, 정수민 
-  - 서기 : 박민성
+  - 애자일 관리 : 박민성
 - Repo : https://github.com/Team5-be01-Final-Project 
