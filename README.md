@@ -28,6 +28,7 @@ _           _         _
      - Agile Coach: 우지영
      - Git Manager: 김단아
 - Repo : https://github.com/T2-Papillon/Main
+- Team Goal : 1일 1커밋 으로 꾸준한 학습과 프로젝트의 진행 상황을 관리하자!
 
 ----
 #### [T3]
