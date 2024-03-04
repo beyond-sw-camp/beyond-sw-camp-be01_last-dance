@@ -36,6 +36,16 @@ _           _         _
 - Repo (https://github.com/9-13579/R0-3Team)
 
 ----
+#### [T4]
+- Topic (공급망 관리를 위한 주문관리시스템)
+- Role 
+    - PM:😺채영 
+    - 형상관리:🦔민희 
+    - 애자일관리:🐯민성 
+    - TL:🐹승민
+- [Repo](https://github.com/team4-order/team4-main)
+
+----
 #### [T5]
 - Topic : 최적의 영업을 위한 영업 관리 시스템
 - Role
@@ -43,4 +53,3 @@ _           _         _
   - 형상관리자 : 임성현, 정수민 
   - 서기 : 박민성
 - Repo : https://github.com/Team5-be01-Final-Project 
-
