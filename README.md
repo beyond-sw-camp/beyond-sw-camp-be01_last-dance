@@ -26,7 +26,7 @@ _           _         _
      - Tech Leader: 최원규
      - Agile Coach: 우지영
      - Git Manager: 김단아
-- [Repo](https://github.com/T2-Papillon/Main)
+- Repo : https://github.com/T2-Papillon/Main
 
 #### [T5]
 - Topic : 최적의 영업을 위한 영업 관리 시스템
