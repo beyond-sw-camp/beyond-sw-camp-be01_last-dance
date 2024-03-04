@@ -43,6 +43,9 @@ _           _         _
     - 형상관리:🦔민희 
     - 애자일관리:☃️민성 
     - TL:🐹승민
+- ground-rule
+
+
 - [Repo](https://github.com/team4-order/team4-main)
 
 ----
