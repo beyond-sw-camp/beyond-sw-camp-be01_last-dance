@@ -19,3 +19,11 @@ _           _         _
 - Role : 이경민(Project Manager), 김민우(Tech Leader), 박대호(Git Manager), 심규혁(Agile Coach)
 - Repo : https://github.com/final-kms/main
   
+----
+#### [T5]
+- Topic : 최적의 영업을 위한 영업 관리 시스템
+- Role
+  - PM : 안우용
+  - 형상관리자 : 임성현, 정수민 
+  - 서기 : 박민성
+- Repo : https://github.com/Team5-be01-Final-Project 
