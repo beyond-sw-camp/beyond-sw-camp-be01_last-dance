@@ -16,6 +16,6 @@ _           _         _
 ----
 #### [T3]
 - Topic 인사관리시스템
-- Role 예정
+- Role PM 주현성 / 형상관리자 박재린 / AC 이영진 / 사원 이동혁, 김정민
 - Repo (https://github.com/9-13579/R0-3Team)
   
