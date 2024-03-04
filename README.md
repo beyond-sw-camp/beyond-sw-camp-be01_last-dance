@@ -20,6 +20,16 @@ _           _         _
 - Repo : https://github.com/final-kms/main
   
 ----
+#### [T2]
+- Topic **효율적인 업무를 위한 일정 관리 시스템**
+- Role
+     - Project Manager: 고라희
+     - Tech Leader: 최원규
+     - Agile Coach: 우지영
+     - Git Manager: 김단아
+- Repo : https://github.com/T2-Papillon/Main
+
+----
 #### [T5]
 - Topic : 최적의 영업을 위한 영업 관리 시스템
 - Role
@@ -27,3 +37,4 @@ _           _         _
   - 형상관리자 : 임성현, 정수민 
   - 서기 : 박민성
 - Repo : https://github.com/Team5-be01-Final-Project 
+
