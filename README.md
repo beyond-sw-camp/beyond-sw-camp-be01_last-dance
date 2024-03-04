@@ -15,7 +15,7 @@ _           _         _
 ### TEAM
 ----
 #### [T1]
-- Topic
-- Role
-- Repo
+- Topic : 집단 지성 활용을 위한 지식 관리 시스템
+- Role : 이경민(Project Manager), 김민우(Teck Leader), 박대호(Git Manager), 심규혁(Agile Coach)
+- Repo : https://github.com/final-kms/main
   
