@@ -47,8 +47,8 @@ _           _         _
 #### [T3] 9-13579
 - Topic 인사관리시스템
 - Role
-    - Project Maneger: 🐻‍❄️주현성
-    - Git Maneger: 🐯박재린, 🐨김정민
+    - Project Manager: 🐻‍❄️주현성
+    - Git Manager: 🐯박재린, 🐨김정민
     - Agile Coach: 🐰이영진
     - Tech Leader: 🐻이동혁
 - Repo (https://github.com/9-13579/R0-3Team)
