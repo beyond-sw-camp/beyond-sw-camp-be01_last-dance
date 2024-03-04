@@ -21,6 +21,10 @@ _           _         _
   
 #### [T4]
 - Topic (공급망 관리를 위한 주문관리시스템)
-- Role (PM:🐶채영 형상관리:🦔민희 애자일관리:🐯민성 TL:🐹승민)
+- Role 
+    - PM:😺채영 
+    - 형상관리:🦔민희 
+    - 애자일관리:🐯민성 
+    - TL:🐹승민)
 - [Repo](https://github.com/team4-order/team4-main)
 
