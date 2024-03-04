@@ -84,6 +84,7 @@ _           _         _
   - 형상관리자 : 임성현, 정수민 
   - 서기 : 박민성
 - Repo : https://github.com/Team5-be01-Final-Project
+- Tea Time : 14:00 ~ 14:30
 
 ----
 #### GROUND RULE
