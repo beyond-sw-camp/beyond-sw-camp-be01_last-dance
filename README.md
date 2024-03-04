@@ -18,4 +18,12 @@ _           _         _
 - Topic
 - Role
 - Repo
-  
+
+
+#### [T5]
+- Topic : 최적의 영업을 위한 영업 관리 시스템
+- Role
+  - PM : 안우용
+  - 형상관리자 : 임성현, 정수민 
+  - 서기 : 박민성
+- Repo : https://github.com/Team5-be01-Final-Project 
