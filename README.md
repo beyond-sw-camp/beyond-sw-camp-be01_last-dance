@@ -30,7 +30,7 @@ _           _         _
 - Repo : https://github.com/T2-Papillon/Main
 
 ----
-#### [T3]
+#### [T3] 9-13579
 - Topic 인사관리시스템
 - Role PM 주현성 / 형상관리자 박재린 / AC 이영진 / 사원 이동혁, 김정민
 - Repo (https://github.com/9-13579/R0-3Team)**#### [T3]
@@ -50,7 +50,7 @@ _           _         _
 - [x] 따로 질문이 있을 경우 각 팀의 PM에게 양해 구할 것.
 
 ### - v0.1.3 team-goal
-#### <span id="goal"> 9-13579 : 프로젝트 목표</span>
+#### <span id="goal"> 프로젝트 목표</span>
 - 요구사항 및 WBS 절대 사수하기
 - 팀원 모두 함께 소통과 협업 능력 기르기
 - 개인 역량도 함께 향상시키기
