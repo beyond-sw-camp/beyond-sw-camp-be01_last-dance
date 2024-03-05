@@ -83,6 +83,19 @@ _           _         _
 
 </details>
 
+<details>
+  <summary>👨‍👩‍👦‍👦Team Goal</summary>
+
+     - 요구사항 및 WBS 절대 사수하기
+     - DB설계 모델링 문제 없이 작성하기
+     - 빌드 및 배포까지 완성하기
+     - 회의록 작성하여 피드백 관리하기
+     - 팀원 모두 함께 소통과 협업 능력 기르기
+     - 개인 역량도 함께 향상시키기
+     - 꼼꼼하게 일정 체크하기
+
+</details>
+
 - Topic 인사관리시스템
 - Repo (https://github.com/9-13579/R0-3Team)
 - Tea Time : 14:00 ~ 14:30
