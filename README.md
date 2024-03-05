@@ -25,14 +25,19 @@ _           _         _
   
 ----
 #### [T2]
-- Topic : 효율적인 업무를 위한 일정 관리 시스템 
-- Role
+- Topic : 효율적인 업무를 위한 일정 관리 시스템
+- Role : 
      - Project Manager: 고라희
      - Tech Leader: 최원규
      - Agile Coach: 우지영
      - Git Manager: 김단아
 - Repo : https://github.com/T2-Papillon/Main
 - Team Goal : 1일 1커밋 으로 꾸준한 학습과 프로젝트의 진행 상황을 관리하자!
+- Personal Goals
+     - 라희 : 문제를 파악하고 대안을 제시할 수 있는 마인드를 갖추기
+     - 원규 : 프로젝트 완성도 중요하지만 남길 수 있는 결과물을 만들고 정리하기
+     - 지영 : 취업준비 할 때 활용할 수 있도록 프로젝트 과정을 git에 잘 정리하기
+     - 단아 : GIT을 잘 활용하여 프로젝트의 일정과 과정을 명확하고 투명하게 관리하기
 
 ----
 #### [T3] 9-13579
