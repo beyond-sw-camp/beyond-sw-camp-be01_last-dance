@@ -8,9 +8,13 @@ _           _         _
 
 ```
 ![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/765d9b05-cc37-46cd-bbbd-5cd4ceb2f59b)
+
 ### CAL
 - 맨토링, 배포, 개발 일정간 주요 마일스톤, 팀미팅, 휴가, 지각등 모든 일정 기록
 - [ 프로젝트 일정 공유 달력 ]( https://calendar.google.com/calendar/u/0?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t )
+
+### DOCS
+- [공용문서함](https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?usp=drive_link) 에 문서를 기록하고
   
 ### TEAM
 ----
