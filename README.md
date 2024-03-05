@@ -8,9 +8,13 @@ _           _         _
 
 ```
 ![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/765d9b05-cc37-46cd-bbbd-5cd4ceb2f59b)
+
 ### CAL
 - 맨토링, 배포, 개발 일정간 주요 마일스톤, 팀미팅, 휴가, 지각등 모든 일정 기록
 - [ 프로젝트 일정 공유 달력 ]( https://calendar.google.com/calendar/u/0?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t )
+
+### DOCS
+- [공용문서함](https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?usp=drive_link) 에 문서를 기록하고
   
 ### TEAM
 ----
@@ -21,8 +25,8 @@ _           _         _
   
 ----
 #### [T2]
-- Topic : 효율적인 업무를 위한 일정 관리 시스템 
-- Role
+- Topic : 효율적인 업무를 위한 일정 관리 시스템
+- Role : 
      - Project Manager: 고라희
      - Tech Leader: 최원규
      - Agile Coach: 우지영
@@ -53,15 +57,48 @@ _           _         _
     - 팀원 모두 함께 소통과 협업 능력 기르기
     - 개인 역량도 함께 향상시키기
     - 꼼꼼하게 일정 체크하기
+- Tea Time : 14:00 ~ 14:30
 ----
 #### [T4]
 - Topic (공급망 관리를 위한 주문관리시스템)
 - Role
     - PM:😺채영
-    - 형상관리:🦔민희
-    - 애자일관리:🐯민성
+    - GM:🦔민희
+    - AC:🐯민성
     - TL:🐹승민
 - [Repo](https://github.com/team4-order/team4-main)
+
+- team-goal
+  1. 프로젝트 완성하는 것을 목표! 완성을 기한 안에 못해도 좋은 경험을 가질 수 있도록
+  2. 멘토님과 팀원들 모두 대화가 잘 이루어지는 것
+  3. 문제가 생겼을 때 함께 최선의 방법을 도출하여 결과물의 완성도 올리기
+  4. 업데이트되는 WBS의 기간을 최대한 엄수
+
+- personal-goals
+    전승민
+    ```
+    1. spring을 주로 사용하는 프로젝트인 만큼 java, spring의 능력을 많이 끌어올리고 싶다.
+
+    2. Tech Leader역을 맡은 만큼 다른 구성원보다 기술 관련해 먼저 알아보고 리뷰할 수 있게 되고 싶다.
+    ```
+    김민성
+    ```
+    1. 포트폴리오 등으로 잘 사용할 수 있도록 잘 만들기!
+    ```
+    윤채영
+    ```
+    1. PM으로써 팀원들과 커뮤니케이션을 원활히 해 개발 능률 올리기
+
+    2. 개발 협업 프로세스에 적응하고 만족할만한 결과물 도출
+    ```
+    박민희
+    ```
+    1. spring, java가 미숙하지만 프로젝트를 통해 공부하면서 성장하는 것
+
+    2. 프로젝트에서 내가 한 기술은 모두 이해하고 설명할 수 있는 것
+ 
+    3. 팀원, 멘토와 의사소통 잘하기
+    ```
 
 ----
 #### [T5]
