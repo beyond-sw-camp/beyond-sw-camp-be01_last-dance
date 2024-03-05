@@ -25,28 +25,32 @@ _           _         _
   
 ----
 #### [T2]
-- Topic : 효율적인 업무를 위한 일정 관리 시스템
+- Topic : 효율적인 업무를 위한 일정 관리 시스템 
 - Role
      - Project Manager: 고라희
      - Tech Leader: 최원규
      - Agile Coach: 우지영
      - Git Manager: 김단아
 - Repo : https://github.com/T2-Papillon/Main
+- Team Goal : 1일 1커밋 으로 꾸준한 학습과 프로젝트의 진행 상황을 관리하자!
 
 ----
 #### [T3] 9-13579
 - Topic 인사관리시스템
 - Role
-    - Project Maneger: 🐻‍❄️주현성
-    - Git Maneger: 🐯박재린, 🐨김정민
+    - Project Manager: 🐻‍❄️주현성
+    - Git Manager: 🐯박재린, 🐨김정민
     - Agile Coach: 🐰이영진
     - Tech Leader: 🐻이동혁
 - Repo (https://github.com/9-13579/R0-3Team)
 - team-goal
     - 요구사항 및 WBS 절대 사수하기
+    - DB설계 모델링 문제 없이 작성하기
+    - 빌드 및 배포까지 완성하기
+    - 회의록 작성하여 피드백 관리하기
     - 팀원 모두 함께 소통과 협업 능력 기르기
     - 개인 역량도 함께 향상시키기
-
+    - 꼼꼼하게 일정 체크하기
 ----
 #### [T4]
 - Topic (공급망 관리를 위한 주문관리시스템)
@@ -60,11 +64,17 @@ _           _         _
 ----
 #### [T5]
 - Topic : 최적의 영업을 위한 영업 관리 시스템
+- Team Personal Goal
+  - 박민성 : 프로젝트 과정을 밀리지 않고 자세히 기록하기
+  - 안우용 : 프로젝트에 대한 전체흐름을 이해하고 개발 능력 기르기
+  - 임성현 : 보기와 오류로 인한 수정에 어려움이 없도록 누락없이 정리와 기록하기, 프로젝트의 모든 내용 숙달하기
+  - 정수민 : 완성 후 프로젝트의 전체 과정을 리뷰할 수 있도록 하기
 - Role
   - PM : 안우용
   - 형상관리자 : 임성현, 정수민 
   - 서기 : 박민성
 - Repo : https://github.com/Team5-be01-Final-Project
+- Tea Time : 14:00 ~ 14:30
 
 ----
 #### GROUND RULE
