@@ -9,23 +9,25 @@ _           _         _
 ```
 ![image](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_finale_project/assets/87309910/765d9b05-cc37-46cd-bbbd-5cd4ceb2f59b)
 
-### CAL
-- 맨토링, 배포, 개발 일정간 주요 마일스톤, 팀미팅, 휴가, 지각등 모든 일정 기록
+### INFO
 - [ 프로젝트 일정 공유 달력 ]( https://calendar.google.com/calendar/u/0?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t )
 
-### DOCS
 - [공용문서함](https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?usp=drive_link) 에 문서를 기록하고
   
 ### TEAM
 ----
 #### [T1]
-- Topic : 집단 지성 활용을 위한 지식 관리 시스템
-- Role :
-     - Project Manager : 이경민
-     - Tech Leader : 김민우
-     - Agile Coach : 심규혁
-     - Git Manager : 박대호
+- Topic : 집단 지성 활용을 위한 지식 관리 시스템 ✨
 - Repo : https://github.com/final-kms/main
+     |Role|PM|TL|AC|GM|
+     |------|---|---|---|---|
+     |NAME|이경민|김민우|심규혁|박대호|
+
+<details>
+ <summary>Goal</summary>
+
+</details>
+
 - Team Goal
      1. 대략 2주 정도를 한 사이클 시간으로 설정해 작업.
      2. 사이클이 끝나면 부족한 부분 보안.
@@ -37,11 +39,13 @@ _           _         _
      6. 코드 주석 철저히
      7. 팀 회의 시간 정하기(오전 할일, 하루 일정 회고 등)
      8. main 브런치 이외 본인 브런치에 만들어진 PR은 본인이 합친다
+
 - Personal Goals
      - 김민우 : 백엔드와 프론트엔드에 대해 더 깊게 이해하기, CI/CD 경험해보기, 서버에 대한 지식 높이기, 보안과 테스트에 대해 신경쓰기
      - 이경민 : 프로젝트 전체 이해하기, 차분히 천천히 진행, Issue 및 PR 활용 최대화 하기, 매일 팀프로젝트 회고하고 정리하기
      - 박대호 : 컴포넌트 기반 개발 이해
      - 심규혁 : 팀 프로젝트 경험과 개발 이해하기, git 사용 이해하고 익숙해지기
+
 - Tea Time
      - 14:00~14:30
 
