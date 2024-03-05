@@ -69,15 +69,19 @@ _           _         _
 ----
 #### [T4]
 - Topic (공급망 관리를 위한 주문관리시스템)
-1. Role
+- Role
     - PM:😺채영
     - GM:🦔민희
     - AC:🐯민성
     - TL:🐹승민
-2. [Repo](https://github.com/team4-order/team4-main)
+- [Repo](https://github.com/team4-order/team4-main)
 
-3. team-goal 및 personal-goals
-- https://github.com/team4-order/team4-main/issues/6
+- team-goal
+  1. 프로젝트 완성하는 것을 목표! 완성을 기한 안에 못해도 좋은 경험을 가질 수 있도록
+  2. 멘토님과 팀원들 모두 대화가 잘 이루어지는 것
+  3. 문제가 생겼을 때 함께 최선의 방법을 도출하여 결과물의 완성도 올리기
+  4. 업데이트되는 WBS의 기간을 최대한 엄수
+
 
 
 ----
