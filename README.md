@@ -17,7 +17,6 @@ _           _         _
 ### TEAM
 ----
 #### [T1]
-
 <details>
   <summary>🥅Team Goal</summary>
 
