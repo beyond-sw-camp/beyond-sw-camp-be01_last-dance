@@ -51,9 +51,9 @@ _           _         _
      - title : [팀명]이슈 내용
      - labels : help wanted
      * 기타
-     팀끼리 과자 나눠주기 
+     팀끼리 과자 나눠주기
      <details>
-  
+
 ### TEAM
 ----
 #### [T1]
@@ -91,7 +91,6 @@ _           _         _
 
 <details>
   <summary>🥅Team Goal</summary>
-     
      - 1일 1커밋 으로 꾸준한 학습과
      - 프로젝트의 진행 상황을 관리하자!
 
@@ -168,6 +167,7 @@ _           _         _
 
 - Topic (공급망 관리를 위한 주문관리시스템)
 - [Repo](https://github.com/team4-order/team4-main)
+- Tea Time : 17:00 ~ 17:30
      |Role|PM|Goal|
      |------|---|---|
      |PM|😺채영|1. PM으로써 팀원들과 커뮤니케이션을 원활히 해 개발 능률 올리기 2. 개발 협업 프로세스에 적응하고 만족할만한 결과물 도출|
