@@ -1,0 +1,26 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/api/api_back
+  - source: /nginx
+    destination: /home/api/nginx
+  - source: /docker-compose.yml
+    destination: /home/api
+  - source: /.env
+    destination: /home/api
+  - source: /config/
+    destination: /home/api/config
+file_exists_behavior: OVERWRITE
+
+permissions:
+  - object: /home/api
+    pattern: "**"
+    owner: root
+    group: root
+
+hooks:
+  AfterInstall:
+    - location: scripts/after-deploy.sh
+      timeout: 2000
+      runas: root
