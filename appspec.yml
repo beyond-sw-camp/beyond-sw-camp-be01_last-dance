@@ -1,26 +1,23 @@
 version: 0.0
 os: linux
 files:
-  - source: /
-    destination: /home/api/api_back
-  - source: /nginx
-    destination: /home/api/nginx
-  - source: /docker-compose.yml
-    destination: /home/api
-  - source: /.env
-    destination: /home/api
-  - source: /config/
-    destination: /home/api/config
+  - source: /home/ubuntu/app/lastdance
+    destination: /home/ubuntu/app/lastdance
 file_exists_behavior: OVERWRITE
 
 permissions:
-  - object: /home/api
+  - object: /home/ubuntu/app/lastdance
     pattern: "**"
-    owner: root
-    group: root
+    owner: ubuntu
+    group: ubuntu
 
 hooks:
   AfterInstall:
-    - location: scripts/after-deploy.sh
-      timeout: 2000
-      runas: root
+    AfterInstall:
+      - location: /home/ubuntu/app/lastdance/stop.sh
+        timeout: 60
+        runas: ubuntu
+    ApplicationStart:
+      - location: /home/ubuntu/app/lastdance/start.sh
+        timeout: 60
+        runas: ubuntu
