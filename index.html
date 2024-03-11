@@ -141,11 +141,12 @@ href="https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?u
 <ul>
 <li>목적 : 팀 내 회의(1시간) / 강사님한테 질문(1시간)</li>
 <li>“1번의 집중 시간” 외 시간에 되도록 진행</li>
-<li>타임테이블 형식으로 예약 : 구글 캘린더</li>
-<li>https://calendar.google.com/calendar/u/0?cid=OThkN2NlY2JiNDA4MzI1ODE1MzBmMTZiZjQwNmYzYWM1YjQzYjlmNzIyYjhhYWVjMzcxZmNlMzUzZTFkODE5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t</li>
+<li>타임테이블 형식으로 예약 : <a
+href="https://calendar.google.com/calendar/u/0?cid=OThkN2NlY2JiNDA4MzI1ODE1MzBmMTZiZjQwNmYzYWM1YjQzYjlmNzIyYjhhYWVjMzcxZmNlMzUzZTFkODE5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">구글
+캘린더</a></li>
 <li>강사님한테 질문한 내용도 이슈에 올리고, 해결방법도 같이 올리기</li>
 </ul>
-<ol start="4" type="1">
+<ol type="1">
 <li>다른 팀에게 질문이 있을 시에</li>
 </ol>
 <ul>
@@ -154,7 +155,7 @@ href="https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?u
 <li>각 팀마다 서로 도움을 요청할 경우 환영해주기</li>
 <li>전체 이슈에 질문 내용 및 해결한 방법 올리기</li>
 </ul>
-<ol start="5" type="1">
+<ol type="1">
 <li>건의사항 처리 방법</li>
 </ol>
 <ul>
@@ -162,7 +163,7 @@ href="https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?u
 건의사항 제출</li>
 <li>슬랙 수업자료공유에 올라온 건의사항 게시판을 통해 제출</li>
 </ul>
-<ol start="6" type="1">
+<ol type="1">
 <li>회의 관련 이슈 규칙</li>
 </ol>
 <ul>
@@ -173,15 +174,15 @@ href="https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92?u
 건의사항이 올라오면 comment로 올린다.</li>
 <li>회의 진행 후 회의결과를 해당 이슈에 comment로 작성</li>
 </ul>
-<ol start="7" type="1">
+<ol type="1">
 <li>질문 관련 이슈 규칙</li>
 </ol>
 <ul>
 <li>title : [팀명]이슈 내용</li>
 <li>labels : help wanted</li>
-<li>기타 팀끼리 과자 나눠주기
-<details></li>
-</ul></li>
+<li>기타 팀끼리 과자 나눠주기</li>
+</ul>
+</details></li>
 </ol></li>
 </ul>
 <h3 id="team">TEAM</h3>
@@ -515,10 +516,16 @@ href="https://github.com/team4-order/team4-main">Repo</a></p></li>
 <hr />
 <h2 id="markdonw-2-html">markdonw 2 HTML</h2>
 <div class="sourceCode" id="cb2"><pre
-class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> pandoc README.md <span class="at">-f</span> markdown <span class="at">-t</span> html <span class="at">-s</span> <span class="at">--css</span><span class="op">=</span>github-pandoc.css <span class="at">-o</span> index.html</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># </span><span class="al">TEST</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> python3 <span class="at">-m</span> http.server 8765</span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="ex">Serving</span> HTTP on :: port 8765 <span class="er">(</span><span class="ex">http://[::]:8765/</span><span class="kw">)</span> <span class="ex">...</span></span></code></pre></div>
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install pandoc</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co"># https://pandoc.org/installing.html</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># download css https://gist.github.com/dashed/6714393</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co"># convert</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> pandoc README.md <span class="at">-f</span> markdown <span class="at">-t</span> html <span class="at">-s</span> <span class="at">--css</span><span class="op">=</span>github-pandoc.css <span class="at">-o</span> index.html</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co"># test</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> python3 <span class="at">-m</span> http.server 8765</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="ex">Serving</span> HTTP on :: port 8765 <span class="er">(</span><span class="ex">http://[::]:8765/</span><span class="kw">)</span> <span class="ex">...</span></span></code></pre></div>
 </body>
 </html>
