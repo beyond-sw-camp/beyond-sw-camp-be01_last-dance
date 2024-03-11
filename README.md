@@ -16,7 +16,7 @@ _           _         _
 
 - 협력과 효율성을 극대화하기 위해 다음과 같은 규칙을 마련했습니다.
      <details>
-     <summary>GROUND RULE</summary>
+     <summary>📂 GROUND RULE</summary>
 
      1. 집중 시간 : "강의실 내에서" 회의 및 대화를 자제하는 시간(필요 시 최대한 조용히)
      - 오전 10:00~12:00
@@ -55,7 +55,6 @@ _           _         _
      <details>
 
 ### TEAM
-----
 #### [T1]
 <details>
   <summary>🥅Team Goal</summary>
@@ -84,11 +83,9 @@ _           _         _
      |AC|심규혁| 팀 프로젝트 경험과 개발 이해하기, git 사용 이해하고 익숙해지기|
      |GM|박대호|컴포넌트 기반 개발 이해|
 
-
-
 ----
-#### [T2]
 
+#### [T2]
 <details>
   <summary>🥅Team Goal</summary>
      - 1일 1커밋 으로 꾸준한 학습과
@@ -99,6 +96,7 @@ _           _         _
 - Topic : 효율적인 업무를 위한 일정 관리 시스템
 - Repo : https://github.com/T2-Papillon/Main
 - Tea Time : 매주 수요일 오후 2시 ~ 2시 30분
+
      |Role|PM|Goal|
      |------|---|---|
      |PM|고라희|문제를 파악하고 대안을 제시할 수 있는 마인드를 갖추기|
@@ -107,6 +105,7 @@ _           _         _
      |GM|김단아|GIT을 잘 활용하여 프로젝트의 일정과 과정을 명확하고 투명하게 관리하기|
 
 ----
+
 #### [T3] 9-13579
 
 <details>
@@ -145,6 +144,7 @@ _           _         _
 - Topic 인사관리시스템
 - Repo (https://github.com/9-13579/R0-3Team)
 - Tea Time : 14:00 ~ 14:30
+
      |Role|PM|Goal|
      |------|---|---|
      |PM|🐻‍❄️주현성|1.협업 능력 키우기 2.WBS, 요구사항 등 문서작성 역량 키우기 3.백엔드(자바, 스프링) 역량 키우기 4. 배운 스킬들 모두 활용해보기|
@@ -153,8 +153,8 @@ _           _         _
      |GM|🐯박재린|1.코드 개발 능력 향상시키기 (All) 2.블로그에 정리하기 3.최종 프로젝트인만큼 DB설계부터 모든 과정 꼼꼼하게 해보기|
      |GM|🐨김정민|1.Spring 쿠키 및 보안처리까지 시도해보기 2.AWS 및 Jenkins 사용 원활해지기|
 
-
 ----
+
 #### [T4]
 
 <details>
@@ -168,6 +168,7 @@ _           _         _
 - Topic (공급망 관리를 위한 주문관리시스템)
 - [Repo](https://github.com/team4-order/team4-main)
 - Tea Time : 17:00 ~ 17:30
+
      |Role|PM|Goal|
      |------|---|---|
      |PM|😺채영|1. PM으로써 팀원들과 커뮤니케이션을 원활히 해 개발 능률 올리기 2. 개발 협업 프로세스에 적응하고 만족할만한 결과물 도출|
@@ -176,6 +177,7 @@ _           _         _
      |GM|🦔민희|1. spring, java가 미숙하지만 프로젝트를 통해 공부하면서 성장하는 것 2. 프로젝트에서 내가 한 기술은 모두 이해하고 설명할 수 있는 것 3. 팀원, 멘토와 의사소통 잘하기|
 
 ----
+
 #### [T5]
 
 <details>
@@ -188,6 +190,7 @@ _           _         _
 - Topic : 최적의 영업을 위한 영업 관리 시스템
 - Repo : https://github.com/Team5-be01-Final-Project
 - Tea Time : 14:00 ~ 14:30
+
      |Role|PM|Goal|
      |------|---|---|
      |PM|안우용|프로젝트에 대한 전체흐름을 이해하고 개발 능력 기르기|
@@ -196,3 +199,18 @@ _           _         _
      |GM|임성현|보기와 오류로 인한 수정에 어려움이 없도록 누락없이 정리와 기록하기, 프로젝트의 모든 내용 숙달하기|
 
 ----
+
+## markdonw 2 HTML
+```bash
+# install pandoc
+# https://pandoc.org/installing.html
+
+# download css https://gist.github.com/dashed/6714393
+
+# convert
+$ pandoc README.md -f markdown -t html -s --css=github-pandoc.css -o index.html
+
+# test
+$ python3 -m http.server 8765
+Serving HTTP on :: port 8765 (http://[::]:8765/) ...
+```
