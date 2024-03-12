@@ -1,0 +1,23 @@
+version: 0.0
+os: linux
+files:
+  - source: /home/ubuntu/app/lastdance
+    destination: /home/ubuntu/app/lastdance
+file_exists_behavior: OVERWRITE
+
+permissions:
+  - object: /home/ubuntu/app/lastdance
+    pattern: "**"
+    owner: ubuntu
+    group: ubuntu
+
+hooks:
+  AfterInstall:
+    AfterInstall:
+      - location: /home/ubuntu/app/lastdance/stop.sh
+        timeout: 60
+        runas: ubuntu
+    ApplicationStart:
+      - location: /home/ubuntu/app/lastdance/start.sh
+        timeout: 60
+        runas: ubuntu

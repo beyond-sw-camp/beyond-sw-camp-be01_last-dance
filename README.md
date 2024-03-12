@@ -32,29 +32,28 @@ _           _         _
      3. 대형 모니터 예약하는 방법
      - 목적 : 팀 내 회의(1시간) / 강사님한테 질문(1시간)
      - "1번의 집중 시간" 외 시간에 되도록 진행
-     - 타임테이블 형식으로 예약 : 구글 캘린더
-     - https://calendar.google.com/calendar/u/0?cid=OThkN2NlY2JiNDA4MzI1ODE1MzBmMTZiZjQwNmYzYWM1YjQzYjlmNzIyYjhhYWVjMzcxZmNlMzUzZTFkODE5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+     - 타임테이블 형식으로 예약 : [구글 캘린더](https://calendar.google.com/calendar/u/0?cid=OThkN2NlY2JiNDA4MzI1ODE1MzBmMTZiZjQwNmYzYWM1YjQzYjlmNzIyYjhhYWVjMzcxZmNlMzUzZTFkODE5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
      - 강사님한테 질문한 내용도 이슈에 올리고, 해결방법도 같이 올리기
-     4. 다른 팀에게 질문이 있을 시에
+     1. 다른 팀에게 질문이 있을 시에
      - 질문을 받는 팀 PM에게 양해를 구하고 질문하기
      - 따로 회의 공간 예약은 안하고, 각자 팀에 가서 질문하기
      - 각 팀마다 서로 도움을 요청할 경우 환영해주기
      - 전체 이슈에 질문 내용 및 해결한 방법 올리기
-     5. 건의사항 처리 방법
+     1. 건의사항 처리 방법
      - 소음 발생 시, 혹은 문제가 있거나 다른 사람에게 할 말이 있을 경우 건의사항 제출
      - 슬랙 수업자료공유에 올라온 건의사항 게시판을 통해 제출
-     6. 회의 관련 이슈 규칙
+     1. 회의 관련 이슈 규칙
      - title : [날짜] 희외명 - 주제
      - labels : 역할명, meeting
      - Assignees : 회의 참석자 지정
      - 회의 시간에 다음주 회의에 대한 이슈를 만들어 놓고(회의 전에만 작성), 건의사항이 올라오면 comment로 올린다.
      - 회의 진행 후 회의결과를 해당 이슈에 comment로 작성
-     7. 질문 관련 이슈 규칙
+     1. 질문 관련 이슈 규칙
      - title : [팀명]이슈 내용
      - labels : help wanted
      * 기타
      팀끼리 과자 나눠주기
-     <details>
+     </details>
 
 ### TEAM
 #### [T1]
@@ -215,4 +214,9 @@ $ pandoc README.md -f markdown -t html -s --css=github-pandoc.css -o index.html
 # test
 $ python3 -m http.server 8765
 Serving HTTP on :: port 8765 (http://[::]:8765/) ...
+```
+
+## deploy 2 AWS
+```bash
+
 ```
