@@ -2,7 +2,7 @@
 
 TIME_NOW=$(date +%c)
 APP_ROOT="/home/ubuntu/app/lastdance"
-DEPLOY_LOG="$PROJECT_ROOT/deploy.log"
+DEPLOY_LOG="$APP_ROOT/deploy.log"
 
 # 현재 구동 중인 애플리케이션 pid 확인
 CURRENT_PID=$(pgrep -f http.server)
