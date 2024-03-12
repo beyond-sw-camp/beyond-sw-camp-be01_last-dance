@@ -2,16 +2,16 @@ name: 🚀 Deploy workflow on PRD(AWS)
 
 on:
   pull_request:
-    branches: [main]
+    branches: [dev]
       types: [closed]
 
 # 변수 설정
 env:
-  AWS_REGION: ap-northeast-2
   PROJECT_NAME: lastdance
+  AWS_REGION: ap-northeast-2
   S3_BUCKET_NAME: lastdance-github-action-s3
   CODE_DEPLOY_APP_NAME: lastdance-ec2-codedeploy
-  # CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: lastdance-ec2-codedeploy
+  CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: lastdance-deployment-group
 
 jobs:
   deploy:
