@@ -20,6 +20,7 @@ jobs:
   deploy:
     if: github.event.pull_request.merged == true
     environment: "PRD"
+      required: true
     steps:
       - name: Checkout
         uses: actions/checkout@v3
