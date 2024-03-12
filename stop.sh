@@ -5,4 +5,5 @@ if [ -f pid ]; then
     kill $(cat pid)
 else
     echo 'pid file does not exist.'
+    kill $(pgrep -f http.server)
 fi
