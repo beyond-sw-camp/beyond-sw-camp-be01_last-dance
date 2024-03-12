@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 
-nohup python3 -m http.server 8765 > app.log 2> err.log &
+APP_ROOT="/home/ubuntu/app/lastdance"
+APP_LOG="$APP_ROOT/app.log"
+ERROR_LOG="$PROJECT_ROOT/err.log"
+DEPLOY_LOG="$PROJECT_ROOT/deploy.log"
+
+nohup python3 -m http.server 8765 --directory $APP_ROOT > $APP_LOG 2> $ERROR_LOG &
 
 CURRENT_PID=$(pgrep -f http.server)
-echo "$TIME_NOW > 실행된 프로세스 아이디 $CURRENT_PID 입니다."
+
+TIME_NOW=$(date +%c)
+echo "[$TIME_NOW] App run successful !!! (PID:$CURRENT_PID)" > $DEPLOY_LOG
