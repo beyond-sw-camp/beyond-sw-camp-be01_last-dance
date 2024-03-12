@@ -13,8 +13,8 @@ env:
   PROJECT_NAME: lastdance
   AWS_REGION: ap-northeast-2
   S3_BUCKET_NAME: lastdance-github-action-s3
-  CODE_DEPLOY_APP_NAME: lastdance-ec2-codedeploy
-  CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: lastdance-deployment-group
+  CODE_DEPLOY_APP_NAME: lastdance-ec2-codedeploy-2
+  CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: lastdance-ec2-codedeploy-group-2
 
 jobs:
   deploy:
