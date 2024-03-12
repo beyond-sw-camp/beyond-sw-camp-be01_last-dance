@@ -6,18 +6,17 @@ files:
 file_exists_behavior: OVERWRITE
 
 permissions:
-  - object: /home/ubuntu/app/lastdance
+  - object: /
     pattern: "**"
     owner: ubuntu
     group: ubuntu
 
 hooks:
   AfterInstall:
-    AfterInstall:
-      - location: /home/ubuntu/app/lastdance/stop.sh
-        timeout: 60
-        runas: ubuntu
-    ApplicationStart:
-      - location: /home/ubuntu/app/lastdance/start.sh
-        timeout: 60
-        runas: ubuntu
+    - location: stop.sh
+      timeout: 60
+      runas: ubuntu
+  ApplicationStart:
+    - location: start.sh
+      timeout: 60
+      runas: ubuntu
