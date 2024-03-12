@@ -1,4 +1,4 @@
-name: 🚀 Deploy workflow on PRD(AWS)
+name: 🚀 Deploy2aws
 
 on:
   push:
