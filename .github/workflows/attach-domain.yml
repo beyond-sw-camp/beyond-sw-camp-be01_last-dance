@@ -14,7 +14,6 @@ env:
 
 jobs:
   deploy:
-    if: github.event.pull_request.merged == true
     environment: PRD
     runs-on: ubuntu-latest
     steps:
